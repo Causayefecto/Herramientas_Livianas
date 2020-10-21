@@ -1,16 +1,17 @@
 {
 "companyName": "CausaYEfecto",
-"productName": "Plantilla_Aguas",
+"productName": "Herramientas_Livianas",
 "productVersion": "0.1",
 "dataUrl": "Herramientas_Livianas.data.unityweb",
 "wasmCodeUrl": "Herramientas_Livianas.wasm.code.unityweb",
 "wasmFrameworkUrl": "Herramientas_Livianas.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
+"backgroundUrl": "Herramientas_Livianas.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.2f1"
+"unityVersion": "2019.4.11f1"
 }
